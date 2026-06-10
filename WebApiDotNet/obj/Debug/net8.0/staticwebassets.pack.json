@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\react 2024\\WebApiDotNet\\WebApiDotNet\\wwwroot\\Page1.html",
+      "PackagePath": "staticwebassets\\Page1.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApiDotNet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApiDotNet.props",
+      "PackagePath": "build\\WebApiDotNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiDotNet.props",
+      "PackagePath": "buildMultiTargeting\\WebApiDotNet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApiDotNet.props",
+      "PackagePath": "buildTransitive\\WebApiDotNet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,14 @@
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\bin\Debug\net8.0\services consumer.exe
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\bin\Debug\net8.0\services consumer.deps.json
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\bin\Debug\net8.0\services consumer.runtimeconfig.json
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\bin\Debug\net8.0\services consumer.dll
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\bin\Debug\net8.0\services consumer.pdb
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\services consumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\services consumer.AssemblyInfoInputs.cache
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\services consumer.AssemblyInfo.cs
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\services consumer.csproj.CoreCompileInputs.cache
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\services consumer.dll
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\refint\services consumer.dll
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\services consumer.pdb
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\services consumer.genruntimeconfig.cache
+E:\react 2024\WebApiDotNet\service consumer\services consumer\services consumer\obj\Debug\net8.0\ref\services consumer.dll
